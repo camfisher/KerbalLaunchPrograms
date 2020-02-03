@@ -1,2 +1,2 @@
 # KerbalLaunchPrograms
-C++ programs for launching rockets using the KRPC mod
+C++ && python programs for launching rockets using the KRPC mod
